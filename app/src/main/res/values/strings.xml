@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Personalizator</string>
+    <string name="app_name">Personalizator Tekstu</string>
+    <string-array name="texts">
+        <item>Witaj w aplikacji!</item>
+        <item>Dzień dobry</item>
+        <item>Nie jestem kreatywny</item>
+    </string-array>
 </resources>
